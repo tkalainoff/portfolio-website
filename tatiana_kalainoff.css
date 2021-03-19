@@ -87,7 +87,7 @@ hr {
 }
 
 #background	{
-	margin-top: 75px;
+	margin-top: 20px;
 	margin-left: 75px;
 	margin-right: 75px;
 	margin-bottom: 30px;
@@ -140,7 +140,7 @@ hr {
 
 #skills td:first-child {
 	font-weight: bold;
-	text-align: left;
+	text-align: right;
 	margin-left: 50px;
 	padding-right: 10px;
 }
